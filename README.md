@@ -5,6 +5,6 @@
 
 
  ## Table of contents
- * [Hellow with html] (#general-info)
+ * [Hellow with html](#general-info)
 
  ### we learn about html
