@@ -1,0 +1,7 @@
+#mainTable{
+    width: 100%;
+    border-collapse: collapse;
+    border: 1px solid #424040;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}   
